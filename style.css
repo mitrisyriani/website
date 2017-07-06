@@ -82,4 +82,16 @@ a:hover {
 color:yellow;
 }
 
+form {
+	text-align:center;
+	padding: 229px 0px 0px;
+	font-size: 30px;
+	color:Green;
+}
+
+input {
+	height: 35px;
+	width: 550px
+}
+
 
